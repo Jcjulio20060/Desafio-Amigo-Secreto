@@ -22,7 +22,7 @@ O principal objetivo deste desafio foi fortalecer minhas habilidades em lógica 
 ### Opção 2: Executar no GitHub Pages
 
 1. Acesse o link: [Amigo Secreto](https://jhonn-dev.github.io/Desafio-Amigo-Secreto/)
-2. Acesse o link: [Amigo Secreto via Vercel](https://desafio-amigo-secreto-jhonn-dev.vercel.app/)
+2. Acesse o link: [Amigo Secreto via Vercel](https://desafio-amigo-secreto-five.vercel.app/)
 
 ## Como contribuir
 
